@@ -1,1 +1,3 @@
-Machine Learning model for rock paper scissors with 30 min training time and 90% accuracy
+Machine Learning model for rock paper scissors with around 40 min training time 
+
+41/41 - 145s - loss: 0.0485 - accuracy: 0.9832 - val_loss: 0.0679 - val_accuracy: 0.9838 - 145s/epoch - 4s/step
